@@ -8,7 +8,7 @@ The dataset is available in .csv format. There is one table,  with the raw data.
 
 [Data Dictionary_PLS.xlsx](https://github.com/MadKahl/NY_Public_Lib/files/8191408/Data.Dictionary_PLS.xlsx)
 
-#### Metadata
+### Metadata
 
 Attribute | Value
 --------- | -------
@@ -32,3 +32,9 @@ references | https://www.ala.org/news/sites/ala.org.news/files/content/State-of-
 temmporal | fy2019
 theme | programs, revenue, circulation
 title | NY Public Libraries Curation Protocol
+
+### Security
+Public Access
+
+### Contributors
+Maddie Kahl
