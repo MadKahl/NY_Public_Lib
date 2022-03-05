@@ -8,3 +8,27 @@ The dataset is available in .csv format. There is one table,  with the raw data.
 
 [Data Dictionary_PLS.xlsx](https://github.com/MadKahl/NY_Public_Lib/files/8191408/Data.Dictionary_PLS.xlsx)
 
+#### Metadata
+
+Attribute | Value
+--------- | -------
+accesslevel | public
+accrualperiodicity | FY2019
+fn | Maddie Kahl
+hasEmail | mailto:madkahl@uw.edu
+describedBy | https://github.com/MadKahl/NY_Public_Lib/blob/main/README.md
+description | This dataset is a breakdown of revenue, programming, and circulation at three New York State Public Libraries including the New York City Public Library
+accessURL | https://github.com/MadKahl/NY_Public_Lib/blob/main/pls_export.csv
+downloadurl | https://github.com/MadKahl/NY_Public_Lib/blob/main/pls_export.csv
+format | CSV
+mediaType| CSV
+issued | 03/05/2022
+keyword | libraries, public, albany, new york city, buffalo
+landing page | https://github.com/MadKahl/NY_Public_Lib
+language | english- US
+modified | 03/05/2022
+publisher | Maddie Kahl
+references | https://www.ala.org/news/sites/ala.org.news/files/content/State-of-Americas-Libraries-Report-2021-4-21.pdf https://www.imls.gov/search-compare/ https://github.com/jamie-ramos/municipal_recycling
+temmporal | fy2019
+theme | programs, revenue, circulation
+title | NY Public Libraries Curation Protocol
