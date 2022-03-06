@@ -6,7 +6,8 @@ The dataset is available in .csv format. I've also included the file in JSON for
 
 ### Data Dictionary 
 
-[Data Dictionary_PLS.xlsx](https://github.com/MadKahl/NY_Public_Lib/files/8191408/Data.Dictionary_PLS.xlsx)
+[Data Dictionary_PLS.xlsx](https://github.com/MadKahl/NY_Public_Lib/files/8193151/Data.Dictionary_PLS.xlsx)
+
 
 ### Metadata
 
